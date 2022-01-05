@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @veerarajank
+- 👀 I’m interested in Intersystems products
+- 👀 I’m interested in React JS,Node JS, Mongo DB
+- 👀 I’m interested in Python Development
 - 👀 I’m interested in Machine Learning and data science
 - 🌱 I’m currently learning Python with data science
 - 💞️ I’m looking for an onsite opportunity
